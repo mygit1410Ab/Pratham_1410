@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407356440006",
+    "project_id": "pratham-39679",
+    "storage_bucket": "pratham-39679.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407356440006:android:5eb44c144df4a8f76946c7",
+        "android_client_info": {
+          "package_name": "com.abhishek1410prathamEnterprise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3bXj-w_JRg97465HpG4DvFL7Qiw1Jis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
